@@ -7,8 +7,8 @@ export const data = {
     phone: "+91-8208023237",
     email: "chavanak870@gmail.com",
     location: "Satara, Maharashtra, India",
-    linkedin: "linkedin.com/in/akash-chavan",
-    linkedinUrl: "https://linkedin.com/in/akash-chavan",
+    linkedin: "www.linkedin.com/in/akash-chavan-646b4117b",
+    linkedinUrl: "www.linkedin.com/in/akash-chavan-646b4117b",
   },
   stats: [
     { value: "90M+", label: "Investor Accounts Served" },
